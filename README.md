@@ -541,4 +541,3 @@ M02
 
 Thus the Gerber File into G-Code using Copper CAM.
 
-Thus the Gerber File into G-Code using Copper CAM.
